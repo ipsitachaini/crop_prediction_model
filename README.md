@@ -154,4 +154,6 @@ For questions or support, please:
 
 ---
 
+presentation of the project in pdf format:[CropAdvisoryPresentationpdf.pdf](https://github.com/user-attachments/files/21414302/CropAdvisoryPresentationpdf.pdf)
+
 **Happy Farming! 🌱**
